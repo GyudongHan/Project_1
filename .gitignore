@@ -3,6 +3,7 @@
 
 # .gitignore 폴더 무시
 data/
+.ipynb_checkpoints/
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
